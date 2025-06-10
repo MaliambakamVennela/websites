@@ -1,0 +1,204 @@
+*{
+    margin: 0%;
+    padding: 0%;
+  }
+  
+  
+  .head
+  {
+    border: 2px solid;
+    border-bottom: dashed;
+    height: 50px;
+    width: 100%;
+    border-color: rgba(159, 153, 153, 0.277); 
+    background-color:  rgb(209, 209, 209);
+   position: fixed;
+  
+  }
+  #f2
+  {
+    margin-left: 20%;
+    margin-top: 1%;
+    font-weight: bold;
+    color: rgb(2, 2, 119);
+  
+   
+  }
+  #f3{
+    text-align: center;
+    margin-left: 45%;
+     margin-top: -1%;
+   
+  }
+  /*
+  #f4
+  {
+   text-align: right;
+   margin-top: -2%;
+  }*/
+  .header
+  {
+      border: 2px solid;
+      border-top: 0px;
+      height: 15vh;
+      width: auto;
+      border-color: rgba(177, 171, 171, 0.277); 
+     background-color:  rgba(177, 171, 171, 0.277);  
+     position: relative;
+     top: 0%;
+     border-top: 0px;     
+  }
+  img{
+     padding-left: 20%;
+     padding-top: 2%;     
+  }
+  .text{
+    
+    position:relative;
+    left: 20%;
+    padding: 3%; 
+   display: inline-block;              
+  }
+  .header1
+  {
+    border: 2px solid rgb(183, 183, 0);
+    height: 10vh;
+    width: auto;
+    background-color: rgb(183, 183, 0);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px; 
+  }
+  .body1
+  {
+    border: 2px solid  white;
+    height: 100vh;
+    width:auto ;
+   margin-top: 5%;
+  }
+  .body1a
+  {
+    border: 2px solid  white;
+    height: 50vh;
+    width:25% ;
+   margin-left: 35%;
+   margin-top: -12%;
+  
+  }
+  .p2{
+    text-align: left;
+   font-size: 25px;
+   color: rgb(240, 107, 107);
+   padding-left: 5%;
+   margin-top: 2%;
+   
+ }
+ .p3
+ {
+    text-align: left;
+    padding-left: 5%;
+    color:rgb(118, 116, 116) ;
+ }
+ .p4
+  {
+    text-align: left;
+    padding: 5%;
+    color:rgb(93, 91, 91) ;
+
+  }
+  #img
+  {
+    margin-left: 2%;
+  }
+  .body1b
+  {
+    border: 2px solid white;
+    height: 50vh;
+    width:25% ;
+   margin-left: 35%;
+   margin-top: -15%;
+ 
+  }
+ 
+  .body1c
+  {
+    border: 2px solid  white;
+    height: 80vh;
+    width:18%;
+   margin-left: 60%;
+   margin-top: -50%;
+  
+  }
+   #img1
+  {
+    margin-right: 40%;
+    margin-top: 10%;
+  }
+  h2
+  {
+    text-align: center;
+    color:rgb(245, 87, 87) ;
+    font-size: bold;
+    padding-top: 5%;
+  }
+  .p22
+  {
+    text-align: center;
+    color:rgb(240, 107, 107) ;
+    font-size: 20px;
+    padding: 10%;
+  }
+  .p33
+  {
+    text-align: center;
+    margin-top: -10%;
+    color:rgb(93, 91, 91) ;
+  }
+  .p44
+  {
+    text-align: center;
+    color:rgb(93, 91, 91) ;
+  }
+  .p41
+  {
+    text-align: center;
+    padding-left: 5%;  
+    color:rgb(93, 91, 91) ;
+  }
+  .p42
+  {
+    text-align: center;
+    color:rgb(93, 91, 91) ;
+  }
+  .footer3
+{
+  border: 2px solid rgba(245, 28, 169, 0.905);
+  height: 20vh;
+  width: auto;
+  background-color: rgba(245, 28, 169, 0.905);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 0px;
+}
+.fimage
+{
+  display: inline-block;
+  margin-left: 2%;
+  margin-top: 5%;
+  justify-content: space-evenly;
+
+  
+}
+.footer4
+{
+  border: 2px solid rgba(245, 28, 169, 0);
+  height: 20vh;
+  width: auto;
+  background-color: rgba(245, 28, 169, 0.905);
+  padding-left: 45%;
+  border-top: 0px;
+
+}
